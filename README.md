@@ -1,6 +1,9 @@
 # Find Saved Chrome Passwords Using Python
 In this python program we are going to crack and get in Google Chrome database passwords. What that means is if Google Chrome has saved passwords for logging into Facebook, Twitter, Instagram or anything else, what this program will do is it will get the passwords from the Chrome and  you'll have URL, username and passwords to all the saved details.
 
+## To get started, let's install required libraries:
+> pip3 install pycryptodome pypiwin32
+
 ## Approach:
 
 Chrome saves passwords locally in a SQLite database. So,
