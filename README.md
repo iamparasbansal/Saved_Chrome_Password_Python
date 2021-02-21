@@ -14,5 +14,4 @@ Chrome saves passwords locally in a SQLite database. So,
 - Finally, we **print the credentials** and remove the database copy from the current directory.
 
 
-##### As chrome changed its encryption after Chrome 80 so the Version_lower80.py will run only with lower versions.
-##### But Version_above80 will run with Versions>=Chrome 80
+#### As chrome changed its encryption after Chrome 80 so the Version_lower80.py will run only with lower versions. But Version_above80 will run with Versions>=Chrome 80
